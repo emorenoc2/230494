@@ -10,19 +10,31 @@ body {
 	color: #202030;
 	background-color: #f8f8fc;
 }
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
+.cv-name {
+  font-family: "Funnel Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: white;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F1A3A4;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FFE8E8;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FAEEEE;
 }
 
 /* Styles for lists in the document */
